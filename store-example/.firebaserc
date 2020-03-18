@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angularstoreexample": {
+      "hosting": {
+        "store-example": [
+          "angularstoreexample"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angularstoreexample"
+  }
+}
